@@ -1,0 +1,5 @@
+[INFO ] 2021-06-01 23:59:47.019 [main] LogTest - This is info Log
+[ERROR] 2021-06-01 23:59:47.022 [main] LogTest - This is error Log
+[DEBUG] 2021-06-01 23:59:47.023 [main] LogTest - This is debug Log
+[FATAL] 2021-06-01 23:59:47.023 [main] LogTest - This is fatal Log
+[WARN ] 2021-06-01 23:59:47.023 [main] LogTest - This is warn Log
